@@ -1,1 +1,3 @@
-# Hello-world
+#hello world
+def helloWorld:
+    print 'hello world'
